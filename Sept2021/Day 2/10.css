@@ -1,0 +1,17 @@
+.beautify
+{
+    background: white;
+    background-image: url("nature.jpg");
+    height: 480px;
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+}
+
+.div
+{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 200px;
+}
